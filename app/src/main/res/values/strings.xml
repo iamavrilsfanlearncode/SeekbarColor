@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeekBar1008</string>
+    <string name="title">seekbar拖曳改顏色數值</string>
+    <string name="red">紅色</string>
+    <string name="green">綠色</string>
+    <string name="blue">藍色</string>
+</resources>
